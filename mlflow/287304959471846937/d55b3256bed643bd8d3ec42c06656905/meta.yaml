@@ -1,0 +1,15 @@
+artifact_uri: file:///content/TFE/mlflow/287304959471846937/d55b3256bed643bd8d3ec42c06656905/artifacts
+end_time: 1763932090966
+entry_point_name: ''
+experiment_id: '287304959471846937'
+lifecycle_stage: active
+run_id: d55b3256bed643bd8d3ec42c06656905
+run_name: monumental-ram-875
+run_uuid: d55b3256bed643bd8d3ec42c06656905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763932085898
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1763932090958
+current_stage: Staging
+description: null
+last_updated_timestamp: 1763932090963
+name: sentiment_analysis_pipeline
+run_id: d55b3256bed643bd8d3ec42c06656905
+run_link: null
+source: file:///content/TFE/mlflow/287304959471846937/d55b3256bed643bd8d3ec42c06656905/artifacts/sentiment_analysis
+status: READY
+status_message: null
+storage_location: file:///content/TFE/mlflow/287304959471846937/d55b3256bed643bd8d3ec42c06656905/artifacts/sentiment_analysis
+user_id: null
+version: 1
